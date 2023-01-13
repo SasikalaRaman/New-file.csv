@@ -2,18 +2,18 @@
 
 IT take outout data set from Boston-Houseprice_dataset file and plot in a pie chart using Matplotlib library.
 
-#Prerequisites
+# Prerequisites
 
 Install Python.
 
-#How to run the script
+# How to run the script
 
 new-file.csv.py
 
-#Output
+# Output
 
 The plot in piechart
 
-#Author name
+# Author name
 
 Sasikala Raman
