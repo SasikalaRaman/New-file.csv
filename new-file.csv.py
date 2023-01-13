@@ -19,5 +19,9 @@ df["INDUS"].sum() # sum the values in the INDUS column
 
 Rate=["TAX","CRIM","LSTAT","INDUS"] # These are the labels for pie chart
 
+plt.pie(Sum,labels = Rate, autopct="%.2f%%") # it convert the labels  in to decimal values
+plt.legend(loc=(1,1)) # 00,11,01,10 # poisition of chart
+plt.show() # show the diagram
+
 
 
